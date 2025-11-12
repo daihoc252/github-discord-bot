@@ -23,7 +23,7 @@ app.post("/github", async (req, res) => {
   const commits = data.commits.map(c => `• ${c.message} (${c.id.slice(0,7)})`).join("\n");
 
   const embed = {
-    username: "GitHub Bot",
+    username: "Thanh Tra CODE",
     embeds: [
       {
         title: `📦 Cập nhật mới trong ${repo}`,
