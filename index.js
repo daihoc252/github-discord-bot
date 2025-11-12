@@ -33,7 +33,7 @@ app.post("/github", async (req, res) => {
   // Embed Discord siêu đẹp, chuẩn như ảnh mẫu
   const discordMessage = {
     username: "Thanh Tra Code",
-    avatar_url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvn.lovepik.com%2Fimage-380716044%2Fdetective-inspector-with-magnifying-glass-metal-magnifying-glass-retro.html&psig=AOvVaw0_Wc5MD554XbpyHRVSet47&ust=1763030252024000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDGute17JADFQAAAAAdAAAAABAM",
+    avatar_url: "https://cdn.discordapp.com/attachments/1438117416671383613/1438117467581841488/df570bc7c008c926985f84219eebda53.jpg?ex=6915b6c3&is=69146543&hm=6ccaefce79766f0cbf868f680bf7362ca3129733d8c1c5a628d6c9c5d8a24fd5&",
     embeds: [
       {
         author: {
